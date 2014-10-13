@@ -1,4 +1,5 @@
-BC_PhalconLessCompiler
-======================
+#PhalconPHP LessCompiler
 
-A Less Compiler for PhalconPHP based on the PHP Less compiler of http://lessphp.gpeasy.com
+A Less Compiler for PhalconPHP (http://www.phalconphp.com) based on the PHP Less compiler of http://lessphp.gpeasy.com.
+
+... work in progress ...
