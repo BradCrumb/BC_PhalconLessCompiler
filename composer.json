@@ -1,0 +1,16 @@
+{
+    "name": "bradcrumb/bc_phalcon-less-compiler",
+    "description": "A LessCompiler Plugin for Phalcon",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "keywords": [
+        "framework",
+        "phalcon",
+        "plugin",
+        "less",
+        "compiler"
+    ],
+    "homepage": "https://github.com/BradCrumb/BC_PhalconLessCompiler",
+    "require": {
+	   "oyejorge/less.php": "1.7.0.*"
+    }
+}
